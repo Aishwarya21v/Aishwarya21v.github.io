@@ -1,0 +1,90 @@
+.jumbotron{
+  border-color: solid green;
+  background-color: white;
+  height: 300px;
+
+}
+.navbar-brand{
+  color:green;
+}
+
+
+#f9{
+  color:white;
+}
+#one{
+  width:5px;
+}
+#two{
+  width:15px;
+  height: 5px;
+  font-size: 10px;
+}
+.img{
+  align-self: stretch;
+}
+
+body, html {
+    height: 100%;
+}
+
+}
+.nav-link{
+  color: white;
+}
+
+.banner-image {
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("unnamed.jpg");
+
+
+  height: 70%;
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#f1{font-family: 'Dancing Script', cursive;}
+#f2{font-family: 'Dancing Script', cursive;
+font-family: 'Lato', sans-serif;}
+#f3{
+  color:#09ad5e;
+}
+.banner-text {
+
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+#but{
+  background-color: green;
+}
+#ro{
+  background-color: black;
+}
+#one{
+  background-color: black;
+}
+#two{
+  background-color: green;
+}
+
+#f6{
+  color:white;
+}
+h5{
+  color:green;
+}
+footer{
+  padding-top: 50px;
+  background-color: #097025;
+}
+#con{
+  background-color: #11506b;
+}
